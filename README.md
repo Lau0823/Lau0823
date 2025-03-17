@@ -57,9 +57,9 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 ---
 
 ### 📩 Contacto
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+📧 **Email:** [tuemail@example.com](emmabluebeachwear@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/laurajimenez](#)  
-📸 **Instagram (Diseño):** [@laura.designs](#)
+
 
 ✨ **Siempre aprendiendo y creando experiencias visuales únicas.** ✨
 
