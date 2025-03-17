@@ -19,13 +19,14 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Backend & Others:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -33,6 +34,7 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
@@ -45,21 +47,19 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 ---
 
 ### 🌟 Proyectos Destacados
-📌 **[Proyecto 1](#)** - Breve descripción 
-📌 **[Proyecto 2](#)** - Breve descripción 
-📌 **[Proyecto 3](#)** - Breve descripción 
+📌 **[INK3D STORE](#)** - Breve descripción 
+📌 **[CHILLPETS PETSHOP ] (#)** - Breve descripción 
 
 ---
 
-### 📊 GitHub Stats
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraJimenez&show_icons=true&theme=radical)
+
 
 ---
 
 ### 📩 Contacto
 📧 **Email:** [tuemail@example.com](emmabluebeachwear@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/laurajimenez](#)  
+💼 **LinkedIn:** [linkedin.com/in/laura-jimenez-746873316](#)  
 
 
-✨ **Siempre aprendiendo y creando experiencias visuales únicas.** ✨
+✨ **Siempre aprendiendo y creando experiencias digitales  únicas.** ✨
 
