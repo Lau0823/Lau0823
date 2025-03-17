@@ -1,6 +1,11 @@
 ### Hey there! I'm **Laura Jiménez** ✨
 
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/arjuncvinod.md
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arjun C Vinod</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div> 
 
 <img align="right" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
