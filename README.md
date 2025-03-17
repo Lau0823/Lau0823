@@ -1,8 +1,6 @@
 ### Hey there! I'm **Laura Jiménez** ✨
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Frontend+Designer+%7C+Fashion+Designer+%7C+UI%2FUX+Lover" alt="Typing SVG"/>
-</a>
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/arjuncvinod.md
 
 <img align="right" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
