@@ -52,11 +52,11 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 
 ---
 
-### 🌟 Proyectos Destacados
-📌 **[INK3D STORE](#)** - Breve descripción 
-📌 **[CHILLPETS PETSHOP ] (#)** - Breve descripción 
+🌟 Featured Projects
 
----
+📌 INK3D STORE - A high-end fashion and 3D printing store. I worked as a Frontend Developer & Fashion Blogger, contributing to the UI design and core functionalities of the application.
+
+📌 CHILL PETS - A pet shop brand and application. As the Founder & Lead Designer, I handled brand identity, UI design, and application development.
 
 
 
