@@ -53,7 +53,7 @@ Experience with Figma & Adobe XD 🖌️
 
 🌟 Featured Projects
 
-📌 INK3D STORE - A high-end fashion and 3D printing store. I worked as a Frontend Developer & Fashion Blogger, contributing to the UI design and core functionalities of the application.
+📌  INK3D STORE is an innovative e-commerce platform that I helped design and develop, delivering a visually stunning and highly functional user experience. The project features a dual-role system for both users and consumers, an exceptional UI, and a built-in magazine with interactive comments. It includes a payment gateway, a chatbot for enhanced customer support, and an advanced toxic comment protection system to maintain a safe community. This project was a perfect blend of design, functionality, and cutting-edge technology
 
 📌 CHILL PETS - A pet shop brand and application. As the Founder & Lead Designer, I handled brand identity, UI design, and application development.
 
