@@ -59,7 +59,8 @@ Experience with Figma & Adobe XD 🖌️
 
 📩 Contact Me
 
-📧 Email: emmabluebeachwear@gmail.com💼 LinkedIn: linkedin.com/in/laura-jimenez-746873316
+📧 Email: emmabluebeachwear@gmail.com
+💼 LinkedIn: linkedin.com/in/laura-jimenez-746873316
 
 ✨ Always learning and crafting unique digital experiences. ✨
 
