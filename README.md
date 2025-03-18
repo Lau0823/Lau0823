@@ -9,8 +9,7 @@
 
 <img align="right" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
-Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y la teoría del color**. Mi objetivo es fusionar la estética del diseño con la funcionalidad del desarrollo web para crear experiencias visuales impactantes.
-
+I am a professional fashion designer graduated from ECCI University and a Full Stack Web Developer specialized in Frontend from Henry Bootcamp. Passionate about merging aesthetics and functionality to craft visually stunning web experience
 ---
 
 ### 🚀 Tech Stack
@@ -42,15 +41,15 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
----
+🎨 Design & UI/UX
 
-### 🎨 Diseño & UI/UX
-- **Teoría del color y tendencias** 🎨
-- **Tipografía y branding** ✍️
-- **Wireframes y prototipado** 📐
-- **Experiencia en Figma y Adobe XD** 🖌️
+Color theory & trends 🎨
 
----
+Typography & branding ✍️
+
+Wireframing & prototyping 📐
+
+Experience with Figma & Adobe XD 🖌️
 
 🌟 Featured Projects
 
@@ -58,14 +57,11 @@ Soy una **diseñadora de modas** con una gran pasión por el **frontend, UI/UX y
 
 📌 CHILL PETS - A pet shop brand and application. As the Founder & Lead Designer, I handled brand identity, UI design, and application development.
 
+📩 Contact Me
+
+📧 Email: emmabluebeachwear@gmail.com💼 LinkedIn: linkedin.com/in/laura-jimenez-746873316
+
+✨ Always learning and crafting unique digital experiences. ✨
 
 
----
-
-### 📩 Contacto
-📧 **Email:** [tuemail@example.com](emmabluebeachwear@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/laura-jimenez-746873316](#)  
-
-
-✨ **Siempre aprendiendo y creando experiencias digitales  únicas.** ✨
 
